@@ -20,3 +20,7 @@ The Pdut3 React Portfolio is a web-based portfolio website showcasing the work a
 * Portfolio section showcasing various projects with project images and links.
 * Contact section with contact information and a contact form.
 * Resume section with a download link to the resume PDF file.
+
+# Screenshot
+![image](https://github.com/Pdut3/Pdut3-React/assets/115908348/a910974d-0d81-452e-bd0e-55ed02a45551)
+

@@ -5,9 +5,6 @@ This is the README file for the Pdut3 React Portfolio project. It contains the n
 The Pdut3 React Portfolio is a web-based portfolio website showcasing the work and information of Paul Dutile III, a developer. The website includes sections such as About Me, Portfolio, Contact, and Resume.
 
 # Files and Folders
-* index.html: The main HTML file that represents the structure of the web page.
-* style.css: The CSS file that contains the styling rules for the web page.
-* script.js: The JavaScript file that contains the client-side scripts for interactivity.
 * images folder: A folder that contains the images used in the web page.
 * github-icon.png: An image file representing the GitHub icon.
 * linkedin-icon.png: An image file representing the LinkedIn icon.
@@ -23,3 +20,6 @@ The Pdut3 React Portfolio is a web-based portfolio website showcasing the work a
 
 # Screenshot
 ![image](https://github.com/Pdut3/Pdut3-React/assets/115908348/b55e418c-346a-4936-a91b-1bfcd66579bd)
+
+# Deployed
+https://pdut3.github.io/Pdut3-React/
